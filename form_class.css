@@ -1,0 +1,36 @@
+.packers_movers_form {
+    background-color: #548ea3;
+    color: #fff;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+table {
+    padding: 5px;
+    border: 2px solid #fff;
+    margin-bottom: 30px;
+    scroll-margin-top: 10px;
+}
+
+.category{ 
+    color: rgb(148, 10, 10);
+}
+.formheading,.btn{
+    background-color: #fff;
+    color: red;
+    width: fit-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+}
+.btn{
+    padding:0 4px;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+
